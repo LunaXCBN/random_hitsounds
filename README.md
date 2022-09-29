@@ -17,9 +17,9 @@ hitsound3.wav
 hitsound4.wav
 hitsound5.wav
 ```
-Unless you want more than 5 sounds at the same time, you have no reason to touch anything in `scripts`</br>
-If you do want to add more than 5 sounds, you have to edit the file in `scripts`</br>
-There are instructions in the file, tho the process is pretty simple even without them.
+
+If you want more than 5 sounds, you'll have to edit the file in `scripts`</br>
+Instructions are inside `game_sounds_weapons.txt`
 
 # Possible Issues
 
