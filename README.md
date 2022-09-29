@@ -1,4 +1,4 @@
-# Random Hitsounds
+# Randomized Hitsounds
 Randomized Hitsounds for Team Fortress 2</br>
 Template by **Luna** / Everything else by **Valve**
 
